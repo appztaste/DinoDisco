@@ -21,8 +21,6 @@ import java.util.Map;
  *
  * COPYRIGHT DISCLAIMER:
  * Images and audio were taken from internet via Google search. I don't own copyright for any of these.
- * If you feel you own copyright of any of these, upon producing proof, I'd be happy to include your name here.
- * I'm not using these commercially, but if you insist I can take down your copyrighted resource.
  *
  * @author Dibya Ranjan Mallick
  */
