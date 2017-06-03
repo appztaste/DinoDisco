@@ -13,10 +13,14 @@
             tools:layout_editor_absoluteX="8dp">
 
         <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" app:srcCompat="@drawable/trex" android:layout_centerVertical="true"
-                android:id="@+id/dinoImage" android:layout_alignParentRight="true"
-                android:layout_alignParentEnd="true" android:onClick="switchImage"/>
+            android:id="@+id/dinoImage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:onClick="switchImage"
+            app:srcCompat="@drawable/trex" />
         <TextView
                 android:text="Tyrannosaurus"
                 android:layout_width="match_parent"
